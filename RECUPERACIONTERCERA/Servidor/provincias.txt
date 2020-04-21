@@ -1,0 +1,20 @@
+Alava
+43,03 -3
+Albacete
+39 -1,52
+Alicante
+38,42 -0,28
+Almeria
+36,45 -3
+Andorra
+42,3 1,28
+Asturias
+43,1 -5,38
+Badajoz
+39,13 -6,59
+Barcelona
+41,35 2,33
+Cadiz
+36,11 -5,27
+Cordoba
+37,37 -4,2
